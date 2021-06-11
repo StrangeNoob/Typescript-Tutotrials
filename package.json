@@ -14,6 +14,17 @@
   "author": "Strange Noob",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "@types/lodash": "^4.14.170",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
+    "lodash": "^4.17.21",
+    "reflect-metadata": "^0.1.13",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
   }
 }
